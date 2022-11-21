@@ -1,5 +1,6 @@
 # Submission " Belajar Fundamental Front-End Web Development " Dicoding
 Website ini dapat menampilkan daftar film yang sedang tayang di bioskop. Selain itu juga dapat mencari film yang sudah rilis ataupun belum dengan mencarinya pada kolom pencarian. 
+
 API -> MovieDB 
 ---------------------------------------
 
