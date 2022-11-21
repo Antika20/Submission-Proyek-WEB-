@@ -16,6 +16,8 @@ npm run start-dev
 --------------------------------------
 ## Screen shot Web "Movie Yuk"
 ![This is an image](https://github.com/Antika20/Submission-Proyek-WEB-/blob/Source-Gambar/ss%20movie%20yuk.PNG?raw=true)
+![this is an image](https://github.com/Antika20/Submission-Proyek-WEB-/blob/Source-Gambar/ss1.PNG?raw=true)
+---------------------------------------
 ## Penyerahan Hasil Penilaian
 ![this is an image](https://github.com/Antika20/Submission-Proyek-WEB-/blob/Source-Gambar/Rating%20movie%20Yuk.PNG?raw=true)
 ![this is an image](https://github.com/Antika20/Submission-Proyek-WEB-/blob/Source-Gambar/syarat%20submission%20movie%20yuk.PNG?raw=true)
